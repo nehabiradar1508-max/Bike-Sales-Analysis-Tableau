@@ -12,10 +12,6 @@ The objective of this project is to identify sales and profit trends, understand
 
 - Tableau
 
-## Dashboard Preview
-
-![Bike Sales Dashboard](Bike-Sales-Dashboard.png)
-
 ## Key Analysis
 
 The dashboard analyzes:
